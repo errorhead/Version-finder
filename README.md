@@ -1,1 +1,1 @@
-To run this script copy into the root of the project
+To run this script copy it into the root of the project.
