@@ -33,4 +33,7 @@ function main () {
 
 }
 
+#
+## run main function
+#
 main
